@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Admin\.Rider2019.1\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Admin\.Rider2019.1\system\resharper-host\local\Transient\ReSharperHost\v191\SolutionCaches\_HelloCSharp.-1436037277.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Admin\rdemo\HelloCSharp" t="IncludeFlat">
+      <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="controller" t="Include">
+          <e p="StudentController.cs" t="Include" />
+        </e>
+        <e p="demo-interface" t="Include" />
+        <e p="entity" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="model" t="Include">
+          <e p="ConnectionHelper.cs" t="Include" />
+          <e p="StudentModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="ConsoleApp1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="HelloCSharp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Spring-Hero-Bank-on-CSharp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="entity" t="Include">
+          <e p="BlockchainAddress.cs" t="Include" />
+          <e p="BlockchainTransaction.cs" t="Include" />
+          <e p="SHBAccount.cs" t="Include" />
+          <e p="SHBTransaction.cs" t="Include" />
+        </e>
+        <e p="interface" t="Include">
+          <e p="GiaoDich.cs" t="Include" />
+          <e p="GiaoDichBlockchain.cs" t="Include" />
+          <e p="GiaoDichSHB.cs" t="Include" />
+        </e>
+        <e p="model" t="Include">
+          <e p="BlockchainAddressModel.cs" t="Include" />
+          <e p="ConnectionHelper.cs" t="Include" />
+          <e p="SHBAccountModel.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Spring-Hero-Bank-on-CSharp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Spring-Hero-Bank-on-CSharp.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

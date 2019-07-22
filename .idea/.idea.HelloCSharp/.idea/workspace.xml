@@ -1,0 +1,790 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f4e39ac0-17f7-44c6-bf93-bfc6ef0576df" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+              <folding>
+                <marker date="1563792674140" expanded="true" signature="6:144" ph="..." />
+                <marker date="1563792674140" expanded="true" signature="167:4335" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="187:4329" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="355:2899" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="391:2889" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="1129:1619" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="1653:1770" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="1857:2338" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="2391:2875" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="2971:4323" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="3006:4313" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="3599:4146" ph="{...}" />
+                <marker date="1563792674140" expanded="true" signature="4181:4299" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichSHB.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="44" column="86" lean-forward="true" selection-start-line="44" selection-start-column="86" selection-end-line="44" selection-end-column="86" />
+              <folding>
+                <marker date="1563792674048" expanded="true" signature="6:98" ph="..." />
+                <marker date="1563792674048" expanded="true" signature="147:7285" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="189:7283" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="281:354" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="386:2105" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="452:1967" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="792:939" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="1010:1633" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="1729:1830" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="1984:2095" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="2136:3824" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="2202:3686" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="2506:2653" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="2723:3351" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="3447:3549" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="3703:3814" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="3867:6191" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="3933:6181" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="4301:4458" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="4941:5093" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="5283:5835" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="5930:6030" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="6051:6167" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="6220:7277" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="6845:7086" ph="{...}" />
+                <marker date="1563792674048" expanded="true" signature="7100:7197" ph="/* trong trường hợp trả về khác null. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBAccount.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+              <folding>
+                <marker date="1563791469617" expanded="true" signature="28:397" ph="{...}" />
+                <marker date="1563791469617" expanded="true" signature="58:395" ph="{...}" />
+                <marker date="1563791469617" expanded="true" signature="92:112" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichBlockchain.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1327">
+              <caret line="97" column="48" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="48" />
+              <folding>
+                <marker date="1563792673995" expanded="true" signature="6:239" ph="..." />
+                <marker date="1563792673995" expanded="true" signature="262:10219" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="311:10217" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="474:561" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="591:2232" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="657:2094" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="989:1136" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="1224:1855" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="1978:2080" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="2111:2222" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="2263:3888" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="2329:3750" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="2625:2772" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="2860:3490" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="3613:3736" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="3767:3878" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="3922:3991" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="4111:9216" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="4298:8778" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="4827:4941" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="5053:5165" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="5254:5326" ph="/* Tiến hành trừ tiền tài khoản gửi. ... */" />
+                <marker date="1563792673995" expanded="true" signature="6363:6474" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="8567:8695" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="8810:9098" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="9118:9206" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="9245:10211" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="9786:10025" ph="{...}" />
+                <marker date="1563792673995" expanded="true" signature="10039:10136" ph="/* trong trường hợp trả về khác null. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/SHBAccountModel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+              <folding>
+                <marker date="1563792674353" expanded="true" signature="6:150" ph="..." />
+                <marker date="1563792674353" expanded="true" signature="179:13190" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="214:13184" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="222:367" ph="/* Bình thường không làm theo cách này, ... */" />
+                <marker date="1563792674353" expanded="true" signature="453:1685" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="1145:1522" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="1220:1506" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="1758:2689" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="2180:2568" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="2763:3729" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="3206:3604" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="3283:3589" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="3826:8006" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="3862:4034" ph="/* 1. Kiểm tra số dư tài khoản hiện tại. ... */" />
+                <marker date="1563792674353" expanded="true" signature="4197:7677" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="4718:4831" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="4932:5043" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="5207:5319" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="5401:5502" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="5604:5705" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="7495:7623" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="7709:7923" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="8099:13178" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="8272:12727" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="8813:8927" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="9029:9141" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="10348:10459" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="12516:12644" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="12759:13047" ph="{...}" />
+                <marker date="1563792674353" expanded="true" signature="13067:13155" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBAccount.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainAddress.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/controller/StudentController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/entity/Student.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/model/StudentModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/ConsoleApp1/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBTransaction.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/BlockchainAddressModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/ConnectionHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/SHBAccountModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichSHB.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichBlockchain.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDich.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/ConsoleApp1/Student.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/entity/Student.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/menu/Menu.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/model/asdasd.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/menu/Class1.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/entity/Product.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/controller/StudentController.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/entity/Animal.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/RutTien.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/GuiTien.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/ChuyenKhoan.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/GiaoDichBlockchain.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/GiaoDichTienMat.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/demo-interface/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Information.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/AccountInformation.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/Program.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/entity/AccountInformation.cs" />
+        <option value="$PROJECT_DIR$/ConsoleApp1/model/StudentModel.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/AcountModel.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBAccount.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainAddress.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDich.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichTienMat.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainTransaction.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/ConnectionHelper.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/BlockchainAddressModel.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBTransaction.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichSHB.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Program.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/SHBAccountModel.cs" />
+        <option value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichBlockchain.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1347" />
+    <option name="height" value="689" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HelloCSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HelloCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Spring-Hero-Bank-on-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HelloCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Spring-Hero-Bank-on-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="entity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HelloCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Spring-Hero-Bank-on-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="interface" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="HelloCSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Spring-Hero-Bank-on-CSharp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="model" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/bin/Debug/netcoreapp2.2/Spring-Hero-Bank-on-CSharp.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Spring-Hero-Bank-on-CSharp.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4e39ac0-17f7-44c6-bf93-bfc6ef0576df" name="Default Changelist" comment="" />
+      <created>1562918455762</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562918455762</updated>
+      <workItem from="1562918457371" duration="797000" />
+      <workItem from="1562922573267" duration="3269000" />
+      <workItem from="1562926799437" duration="354000" />
+      <workItem from="1563110827540" duration="1126000" />
+      <workItem from="1563112018299" duration="3685000" />
+      <workItem from="1563173306708" duration="11412000" />
+      <workItem from="1563302123743" duration="4960000" />
+      <workItem from="1563307685064" duration="353000" />
+      <workItem from="1563345883851" duration="8979000" />
+      <workItem from="1563472795237" duration="2148000" />
+      <workItem from="1563519145828" duration="4007000" />
+      <workItem from="1563523272080" duration="4849000" />
+      <workItem from="1563562471469" duration="4408000" />
+      <workItem from="1563646868473" duration="5917000" />
+      <workItem from="1563689041788" duration="10115000" />
+      <workItem from="1563730511803" duration="3122000" />
+      <workItem from="1563784057709" duration="982000" />
+      <workItem from="1563789586642" duration="3079000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="73562000" />
+  </component>
+  <component name="TodoView" selected-index="1">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18175721" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4671233" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928944" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32928944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32928944" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.3328767" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3106576" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3984" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32928944" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.328" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" weight="0.32928944" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" weight="0.32928944" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.32928944" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.7472" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/HelloCSharp.sln">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/menu/Menu.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/model/asdasd.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/entity/Product.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/menu/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/entity/Student.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
+          <folding>
+            <marker date="1563111173423" expanded="true" signature="21:782" ph="{...}" />
+            <marker date="1563111173423" expanded="true" signature="48:780" ph="{...}" />
+            <marker date="1563111173423" expanded="true" signature="92:120" ph="{...}" />
+            <marker date="1563111173423" expanded="true" signature="316:455" ph="{...}" />
+            <marker date="1563111173423" expanded="true" signature="598:770" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/entity/Animal.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/demo-interface/RutTien.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/demo-interface/GuiTien.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/demo-interface/ChuyenKhoan.cs" />
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-420">
+          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1563358261768" expanded="true" signature="6:161" ph="..." />
+            <marker date="1563358261768" expanded="true" signature="184:319" ph="{...}" />
+            <marker date="1563358261768" expanded="true" signature="204:305" ph="{...}" />
+            <marker date="1563358261768" expanded="true" signature="259:290" ph="{...}" />
+            <marker date="1563358261768" expanded="true" signature="322:2178" ph="/* private static void GenerateMenu() ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="36" column="9" selection-start-line="7" selection-start-column="7" selection-end-line="36" selection-end-column="9" />
+          <folding>
+            <marker date="1563178978473" expanded="true" signature="6:48" ph="..." />
+            <marker date="1563178978473" expanded="true" signature="77:1126" ph="{...}" />
+            <marker date="1563178978473" expanded="true" signature="113:1124" ph="{...}" />
+            <marker date="1563178978473" expanded="true" signature="449:867" ph="{...}" />
+            <marker date="1563178978473" expanded="true" signature="553:814" ph="{...}" />
+            <marker date="1563178978473" expanded="true" signature="913:1118" ph="{...}" />
+            <marker date="1563178978473" expanded="true" signature="1017:1069" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/model/StudentModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="59" column="39" selection-start-line="59" selection-start-column="12" selection-end-line="59" selection-end-column="39" />
+          <folding>
+            <marker date="1563346794925" expanded="true" signature="6:135" ph="..." />
+            <marker date="1563346794925" expanded="true" signature="164:3751" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="206:3749" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="260:943" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="998:1779" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="1264:1683" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="1333:1607" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="1831:2585" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="2143:2200" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="2247:2502" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="2633:3289" ph="{...}" />
+            <marker date="1563346794925" expanded="true" signature="3335:3743" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp1/controller/StudentController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="51" column="9" selection-start-line="51" selection-start-column="9" selection-end-line="51" selection-end-column="9" />
+          <folding>
+            <marker date="1563307383592" expanded="true" signature="6:38" ph="..." />
+            <marker date="1563307383592" expanded="true" signature="72:3627" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="109:3625" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="202:341" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="251:331" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="377:1162" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="1194:1843" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="1391:1505" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="1668:1833" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="1885:2791" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="2207:2325" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="2828:3619" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="3158:3289" ph="{...}" />
+            <marker date="1563307383592" expanded="true" signature="3493:3562" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/controller/ExchangeController.cs" />
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/AcountModel.cs" />
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichTienMat.cs" />
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/ConnectionHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="48" selection-start-line="8" selection-start-column="48" selection-end-line="8" selection-end-column="48" />
+          <folding>
+            <marker date="1563792674304" expanded="true" signature="6:48" ph="..." />
+            <marker date="1563792674304" expanded="true" signature="77:1111" ph="{...}" />
+            <marker date="1563792674304" expanded="true" signature="113:1109" ph="{...}" />
+            <marker date="1563792674304" expanded="true" signature="430:852" ph="{...}" />
+            <marker date="1563792674304" expanded="true" signature="534:795" ph="{...}" />
+            <marker date="1563792674304" expanded="true" signature="898:1103" ph="{...}" />
+            <marker date="1563792674304" expanded="true" signature="1002:1054" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/BlockchainAddressModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
+          <folding>
+            <marker date="1563792674258" expanded="true" signature="6:20" ph="..." />
+            <marker date="1563792674258" expanded="true" signature="98:5790" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="140:5783" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="241:1441" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="951:1271" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="1042:1255" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="1585:5777" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="1796:5479" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="2259:2372" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="2468:2611" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="2806:2918" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="3033:3144" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="3263:3374" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="3476:3533" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="5297:5425" ph="{...}" />
+            <marker date="1563792674258" expanded="true" signature="5511:5694" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDich.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <marker date="1563792674094" expanded="true" signature="21:164" ph="{...}" />
+            <marker date="1563792674094" expanded="true" signature="53:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="28" column="31" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+          <folding>
+            <marker date="1563792673953" expanded="true" signature="28:851" ph="{...}" />
+            <marker date="1563792673953" expanded="true" signature="69:849" ph="{...}" />
+            <marker date="1563792673953" expanded="true" signature="114:134" ph="{...}" />
+            <marker date="1563792673953" expanded="true" signature="170:267" ph="{...}" />
+            <marker date="1563792673953" expanded="true" signature="314:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/BlockchainAddress.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <marker date="1563792674202" expanded="true" signature="28:370" ph="{...}" />
+            <marker date="1563792674202" expanded="true" signature="65:368" ph="{...}" />
+            <marker date="1563792674202" expanded="true" signature="106:126" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBTransaction.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="8" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
+          <folding>
+            <marker date="1563792674407" expanded="true" signature="28:1213" ph="{...}" />
+            <marker date="1563792674407" expanded="true" signature="62:1211" ph="{...}" />
+            <marker date="1563792674407" expanded="true" signature="100:120" ph="{...}" />
+            <marker date="1563792674407" expanded="true" signature="156:253" ph="{...}" />
+            <marker date="1563792674407" expanded="true" signature="300:393" ph="{...}" />
+            <marker date="1563792674407" expanded="true" signature="1011:1205" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/entity/SHBAccount.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="45" lean-forward="true" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding>
+            <marker date="1563791469617" expanded="true" signature="28:397" ph="{...}" />
+            <marker date="1563791469617" expanded="true" signature="58:395" ph="{...}" />
+            <marker date="1563791469617" expanded="true" signature="92:112" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichSHB.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="44" column="86" lean-forward="true" selection-start-line="44" selection-start-column="86" selection-end-line="44" selection-end-column="86" />
+          <folding>
+            <marker date="1563792674048" expanded="true" signature="6:98" ph="..." />
+            <marker date="1563792674048" expanded="true" signature="147:7285" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="189:7283" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="281:354" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="386:2105" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="452:1967" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="792:939" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="1010:1633" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="1729:1830" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="1984:2095" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="2136:3824" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="2202:3686" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="2506:2653" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="2723:3351" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="3447:3549" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="3703:3814" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="3867:6191" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="3933:6181" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="4301:4458" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="4941:5093" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="5283:5835" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="5930:6030" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="6051:6167" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="6220:7277" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="6845:7086" ph="{...}" />
+            <marker date="1563792674048" expanded="true" signature="7100:7197" ph="/* trong trường hợp trả về khác null. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
+          <folding>
+            <marker date="1563792674140" expanded="true" signature="6:144" ph="..." />
+            <marker date="1563792674140" expanded="true" signature="167:4335" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="187:4329" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="355:2899" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="391:2889" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="1129:1619" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="1653:1770" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="1857:2338" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="2391:2875" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="2971:4323" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="3006:4313" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="3599:4146" ph="{...}" />
+            <marker date="1563792674140" expanded="true" signature="4181:4299" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/model/SHBAccountModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="26" lean-forward="true" selection-start-line="16" selection-start-column="26" selection-end-line="16" selection-end-column="26" />
+          <folding>
+            <marker date="1563792674353" expanded="true" signature="6:150" ph="..." />
+            <marker date="1563792674353" expanded="true" signature="179:13190" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="214:13184" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="222:367" ph="/* Bình thường không làm theo cách này, ... */" />
+            <marker date="1563792674353" expanded="true" signature="453:1685" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="1145:1522" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="1220:1506" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="1758:2689" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="2180:2568" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="2763:3729" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="3206:3604" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="3283:3589" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="3826:8006" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="3862:4034" ph="/* 1. Kiểm tra số dư tài khoản hiện tại. ... */" />
+            <marker date="1563792674353" expanded="true" signature="4197:7677" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="4718:4831" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="4932:5043" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="5207:5319" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="5401:5502" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="5604:5705" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="7495:7623" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="7709:7923" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="8099:13178" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="8272:12727" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="8813:8927" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="9029:9141" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="10348:10459" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="12516:12644" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="12759:13047" ph="{...}" />
+            <marker date="1563792674353" expanded="true" signature="13067:13155" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Spring-Hero-Bank-on-CSharp/interface/GiaoDichBlockchain.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1327">
+          <caret line="97" column="48" selection-start-line="97" selection-start-column="12" selection-end-line="97" selection-end-column="48" />
+          <folding>
+            <marker date="1563792673995" expanded="true" signature="6:239" ph="..." />
+            <marker date="1563792673995" expanded="true" signature="262:10219" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="311:10217" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="474:561" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="591:2232" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="657:2094" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="989:1136" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="1224:1855" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="1978:2080" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="2111:2222" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="2263:3888" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="2329:3750" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="2625:2772" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="2860:3490" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="3613:3736" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="3767:3878" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="3922:3991" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="4111:9216" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="4298:8778" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="4827:4941" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="5053:5165" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="5254:5326" ph="/* Tiến hành trừ tiền tài khoản gửi. ... */" />
+            <marker date="1563792673995" expanded="true" signature="6363:6474" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="8567:8695" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="8810:9098" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="9118:9206" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="9245:10211" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="9786:10025" ph="{...}" />
+            <marker date="1563792673995" expanded="true" signature="10039:10136" ph="/* trong trường hợp trả về khác null. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

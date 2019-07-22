@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{5BA32E07-F2B9-4733-A18E-90EF93BEE8DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Spring-Hero-Bank-on-CSharp", "Spring-Hero-Bank-on-CSharp\Spring-Hero-Bank-on-CSharp.csproj", "{72D72BCF-3A6E-4712-88E7-079F94408DCD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BA32E07-F2B9-4733-A18E-90EF93BEE8DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BA32E07-F2B9-4733-A18E-90EF93BEE8DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BA32E07-F2B9-4733-A18E-90EF93BEE8DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BA32E07-F2B9-4733-A18E-90EF93BEE8DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{72D72BCF-3A6E-4712-88E7-079F94408DCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D72BCF-3A6E-4712-88E7-079F94408DCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D72BCF-3A6E-4712-88E7-079F94408DCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D72BCF-3A6E-4712-88E7-079F94408DCD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
